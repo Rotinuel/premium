@@ -10,7 +10,7 @@ const catList = [
 function portfolio() {
   return (
     <div className="mx-auto py-24 lg:px-36 px-8">
-      <p className="leading-[48px] text-justify lg:pt-18">
+      <p className="leading-[32px] text-justify lg:pt-18">
         Premium Blue Economy Innovations and Investments Limited is dedicated to
         driving sustainable marine and blue economy initiatives in Nigeria.
         Founded in Abuja, the company brings together a diverse team of experts
@@ -38,7 +38,7 @@ function portfolio() {
           </div>
         </div>
         <div>
-        <button className="">
+        <button className="underline">
         <a className="pt-12 px-8" href='https://nairametrics.com/2024/02/07/unilorin-signs-mou-with-swiss-firm-one-other-for-blue-economy-partnership/'> click to see more       
         </a>
         </button>
