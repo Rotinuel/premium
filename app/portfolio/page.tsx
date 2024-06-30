@@ -39,7 +39,7 @@ function portfolio() {
         </div>
         <div>
         <button className="underline">
-        <a className="pt-12 px-8" href='https://nairametrics.com/2024/02/07/unilorin-signs-mou-with-swiss-firm-one-other-for-blue-economy-partnership/'> click to see more       
+        <a className="pt-12 px-8" href='https://nairametrics.com/2024/02/07/unilorin-signs-mou-with-swiss-firm-one-other-for-blue-economy-partnership/'> Click here to see More       
         </a>
         </button>
         </div>
